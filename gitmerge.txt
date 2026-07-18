@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 my code
+=======
+this is new file
+</html>
+</html>
+>>>>>>> dev
